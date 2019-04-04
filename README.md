@@ -1,3 +1,5 @@
+## Simple react app inspired by Mosh's [React Crush Course](https://www.youtube.com/watch?v=Ke90Tje7VS0&t=5s) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
